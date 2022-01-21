@@ -1,3 +1,6 @@
 # web-server with Express and Nodejs#
-installing
+Installing
 -----------
+* Install nodejs and npm
+* Install Express
+* Install nodemon
