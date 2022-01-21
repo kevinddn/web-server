@@ -6,6 +6,7 @@ The ***normalizePort*** function returns a valid port, whether it is provided as
 The ***errorHandler*** function checks for various errors and handles them appropriately — it is then registered to the server.
 
 A listening event listener is also registered, logging the port or named pipe on which the server is running to the console.
+
 Requirements
 -----------
 * Install nodejs and npm
