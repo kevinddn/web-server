@@ -1,4 +1,7 @@
 # Web-server with Express and Nodejs
+
+***Features***
+
 ***process.env.PORT*** makes the app dynamic so that it can run any port assigned to it in the future when hosted on a live server.
 
 The ***normalizePort*** function returns a valid port, whether it is provided as a number or a string.
